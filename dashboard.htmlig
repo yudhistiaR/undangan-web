@@ -112,7 +112,7 @@
 
   <!-- data-bs-theme ['auto', 'dark', 'light'] -->
 
-  <body data-url="http://localhost:8000">
+  <body>
     <!-- Nav bottom -->
     <nav
       class="navbar navbar-expand fixed-bottom rounded-top-4 border-top d-md-none d-lg-none d-xl-none p-0"
