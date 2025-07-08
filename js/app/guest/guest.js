@@ -276,10 +276,10 @@ export const guest = (() => {
     const data = new URLSearchParams({
       action: "TEMPLATE",
       text: "The Wedding of Hadi and Herlin",
-      dates: `${formatDate("2025-06-27 09:00")}/${formatDate("2025-06-27 17:00")}`,
+      dates: `${formatDate("2025-08-16 10:00")}/${formatDate("2025-08-27 14:00")}`,
       details:
         "Tanpa mengurangi rasa hormat, kami mengundang Anda untuk berkenan menghadiri acara pernikahan kami. Terima kasih atas perhatian dan doa restu Anda, yang menjadi kebahagiaan serta kehormatan besar bagi kami.",
-      location: "Jl. Tembus Mantuil Komplek Warga Indah 7 Blok E No.253",
+      location: "Jl. Raya Panggung No. 36 Jati Bening Bekasi, Jawa Barat, Indonesia 17412 ",
       ctz: config.get("tz"),
     });
 
